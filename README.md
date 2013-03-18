@@ -1,2 +1,4 @@
-fuck-GFW--fuck-CHINA
-====================
+$ MKDIR~
+$ CD
+$ git init 
+$ readme
