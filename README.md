@@ -1,4 +1,1 @@
-$ MKDIR~/nihaoshiji
-$ CD
-$ git init 
-$ readme
+FUCK GFW,FUCK CHINA,FUCK Chinese.
